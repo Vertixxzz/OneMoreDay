@@ -95,8 +95,3 @@ Werning, S. (2019b). Itch.io and the one-dollar-game: How distribution platforms
 Whitson, J. R., Simon, B., & Parker, F. (2021). The missing producer: Rethinking indie cultural production in terms of entrepreneurship, relational labour, and sustainability. *European Journal of Cultural Studies, 24*(2), 606–627. https://doi.org/10.1177/1367549418810082
 
 Young, C. J. (2024). Desirable work: Creative autonomy and the everyday turn in game production. *New Media & Society, 26*(10), 5983–5998. https://doi.org/10.1177/14614448221146480
-
-
----
-
-**Draft note:** This is a focused narrative review, not a systematic review. The source set and interpretation must be checked against the full texts and supervisor guidance before submission.
