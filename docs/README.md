@@ -9,6 +9,8 @@ Each written project document is available in two formats:
 - **Markdown (`.md`)** — best for browsing on GitHub, reviewing diffs, and tracking changes.
 - **Microsoft Word (`.docx`)** — convenient for reading, comments, and academic review.
 
+You can get the .docx variations here -> https://drive.google.com/drive/folders/1ctH97rbreNvqTOoONxiDKU9G49EQ-rkG?usp=sharing
+
 The paired files should contain the same substantive content. GitHub is the version-control home for project documents; if edits are made to a Word copy, transfer those edits back into Markdown before treating them as the current project version. The two formats are not automatically synchronized.
 
 ## Research and planning documents
