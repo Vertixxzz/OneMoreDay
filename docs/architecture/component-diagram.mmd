@@ -1,0 +1,27 @@
+flowchart TB
+    subgraph Unity["Unity Game Application"]
+        Input["Player Input"]
+        Player["Player Controller"]
+        Interaction["Interaction System"]
+        Flow["Chapter / Game Flow Manager"]
+        Dialogue["Dialogue System<br/>(Yarn Spinner — proposed)"]
+        State["Narrative State<br/>and Branch Manager"]
+        UI["Dialogue and UI Presentation"]
+        Audio["Audio Manager"]
+    end
+
+    Assets["Game Assets<br/>Sprites, scenes and audio files"]
+    Music["Original Music<br/>produced in FL Studio"]
+
+    Input --> Player
+    Player --> Interaction
+    Interaction --> Dialogue
+    Flow <--> Dialogue
+    Dialogue <--> State
+    State --> Flow
+    Dialogue --> UI
+    Flow --> UI
+    Audio --> Music
+    Assets --> UI
+    Assets --> Player
+    Music --> Audio
