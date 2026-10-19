@@ -1,0 +1,25 @@
+flowchart TB
+    Player(["Player"])
+
+    subgraph OMD["One More Day"]
+        UC1(["Start and play the game"])
+        UC2(["Explore the environment"])
+        UC3(["Interact with characters and objects"])
+        UC4(["Read and advance dialogue"])
+        UC5(["Progress through three chapters"])
+        UC6(["Choose April's response<br/>in Chapter III"])
+        UC7(["Experience the engagement branch"])
+        UC8(["Experience the withdrawal branch"])
+        UC9(["Experience visuals and music"])
+    end
+
+    Player --- UC1
+    Player --- UC2
+    Player --- UC3
+    Player --- UC4
+    Player --- UC5
+    Player --- UC6
+    Player --- UC9
+
+    UC6 --> UC7
+    UC6 --> UC8
