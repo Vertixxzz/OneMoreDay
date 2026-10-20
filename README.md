@@ -89,12 +89,6 @@ The current candidate stack is **Unity 6 + C#**, with **Yarn Spinner** as the le
 
 Items in this list are not represented as completed until supporting evidence is added to the repository.
 
-## Project coordination
-
-- **Author:** _Add official full name_
-- **Supervisor:** _Add supervisor's name_
-- **YouTrack:** _Add project URL when available_
-
 ## Build, run, and test
 
 A runnable game build and complete implementation setup instructions are not currently provided in this repository. Once a runnable prototype is committed, this section should specify the required Unity version, how to open the project, input controls, and how to execute any available tests.
