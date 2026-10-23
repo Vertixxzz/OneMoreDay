@@ -12,8 +12,6 @@
 
 > **Related document:** The detailed verification procedures, test cases, result fields, and player-evaluation method are maintained in [`evaluation-plan.md`](evaluation-plan.md). That file is the single source of truth for test-case IDs T-01–T-12; this specification maps requirements to those IDs without redefining the test cases.
 
-**Revision note (v0.3):** Aligned requirements traceability with the dedicated evaluation plan, removed the duplicate test-case register, clarified how unexecuted tests are recorded, and raised the non-moralizing presentation of the final choice to a Must-level requirement because it is central to the documented narrative objective.
-
 ## 1. Project Overview
 
 One More Day is an original 2D top-down narrative game about April, a kind, sociable art university student whose ordinary life is disrupted by a cancer diagnosis.
