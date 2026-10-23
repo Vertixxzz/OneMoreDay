@@ -16,8 +16,6 @@ Responses were collected asynchronously using text-based, semi-structured interv
 
 The six interview records are anonymised below. Categories are based only on the supplied answers, not on independently verified biographies.
 
-\newpage
-
 | Code | Anonymised participant overview |
 |---|---|
 | P01 | Player interested in story-driven games. Discussed narrative coherence, consequential choices, endings, sound, character empathy, and the portrayal of difficult experiences. |
@@ -121,13 +119,6 @@ These questions require follow-up concept feedback, prototype evaluation, techni
 The study includes six interview records, but the sample remains small, non-random, and non-representative. Three interviews primarily capture player experiences and preferences, while three contribute development or industry-related perspectives. The player interviews provide direct evidence about individual player expectations; the other interviews add first-hand perspectives on production and sector conditions. Interview guides differed, responses were self-reported and text-based, and the supplied materials do not document recruitment procedures, participant demographics, or consent status. Findings should not be expressed as percentages or generalised to all players and developers.
 
 The respondents were not shown a specific game concept or playable prototype. The interviews therefore inform the broad development context and possible design considerations, but they do not validate any particular game's premise, characters, narrative branches, usability, or emotional impact.
-
-Recommended next steps:
-
-1. Present a short, neutral concept description to potential players and ask about clarity, expectations, and interpretation without leading them toward a preferred response.
-2. Build a low-fidelity scene or vertical slice and check whether the interaction, dialogue, and any major choice are understandable.
-3. Use the verification and evaluation plan for functional behaviour and stability; treat player feedback as a separate evidence source.
-4. Support wider claims about the industry, distribution, and AI with the literature review rather than relying on interview opinions alone.
 
 ## 7. Conclusion
 
