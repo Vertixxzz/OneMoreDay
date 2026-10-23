@@ -1,46 +1,46 @@
 # Documentation Index
 
-This directory contains the research, design, and evaluation documentation for **One More Day** and its diploma research topic, *Independent Game Development as a Catalyst for the Evolution of the Video Game Industry*.
+This directory contains the research, design, user-research, architecture, and evaluation documents for **One More Day** and its diploma topic, *Independent Game Development as a Catalyst for the Evolution of the Video Game Industry*.
 
-## Document formats
+## Document Formats
 
-Each written project document is available in two formats:
+- **Markdown (`.md`)** is the version-controlled source of truth. It is best for browsing on GitHub, reviewing changes, and tracking edits.
+- **Microsoft Word (`.docx`)** copies are provided for academic review and submission in the [Word documents folder](https://drive.google.com/drive/folders/1ctH97rbreNvqTOoONxiDKU9G49EQ-rkG?usp=sharing).
 
-- **Markdown (`.md`)** — best for browsing on GitHub, reviewing diffs, and tracking changes.
-- **Microsoft Word (`.docx`)** — convenient for reading, comments, and academic review.
+Word copies are not automatically synchronised with Markdown. When a document changes, update the Markdown source and regenerate or revise the Word copy before using it for submission.
 
-You can get the .docx variations here -> https://drive.google.com/drive/folders/1ctH97rbreNvqTOoONxiDKU9G49EQ-rkG?usp=sharing
+## Research and Planning Documents
 
-The paired files should contain the same substantive content. GitHub is the version-control home for project documents; if edits are made to a Word copy, transfer those edits back into Markdown before treating them as the current project version. The two formats are not automatically synchronized.
+| Document | Markdown Source | Purpose |
+|---|---|---|
+| Project Proposal | [project-proposal.md](project-proposal.md) | Problem statement, aim, research questions, scope, methodology, and expected outcomes |
+| Source Bibliography | [source-bibliography.md](source-bibliography.md) | Selected scholarly publications with descriptions and links |
+| Literature Review | [literature-review.md](literature-review.md) | Critical synthesis and structured publication-analysis matrix |
+| User Research | [user-research.md](user-research.md) | Preliminary interview findings, evidence-to-requirements mapping, assumptions, and limitations |
+| Independent Games Comparison | [indie-games-comparison.md](indie-games-comparison.md) | Cross-genre case study of selected independent games |
+| Narrative Games Comparison | [narrative-games-comparison.md](narrative-games-comparison.md) | Comparison of narrative indie games relevant to One More Day |
+| Technology Comparison | [technology-comparison.md](technology-comparison.md) | Preliminary evaluation of engines, dialogue systems, state management, and music tools |
+| Requirements Specification | [requirements-specification.md](requirements-specification.md) | Narrative structure, functional/non-functional requirements, priorities, and acceptance criteria |
+| Evaluation Plan | [evaluation-plan.md](evaluation-plan.md) | Functional verification and exploratory player-evaluation methods |
 
-## Research and planning documents
+## Architecture Diagrams
 
-| Document | Markdown | Word | Purpose |
-|---|---|---|---|
-| Project Proposal | [`.md`](project-proposal.md) | [`.docx`](project-proposal.docx) | Problem statement, aim, research questions, scope, methodology, and expected outcomes. |
-| Source Bibliography | [`.md`](source-bibliography.md) | [`.docx`](source-bibliography.docx) | Selected scholarly publications with short descriptions and links. |
-| Literature Review | [`.md`](literature-review.md) | [`.docx`](literature-review.docx) | Critical synthesis of research on independent game development and industry evolution. |
-| Independent Games Comparison | [`.md`](indie-games-comparison.md) | [`.docx`](indie-games-comparison.docx) | Cross-genre case study of selected independent games. |
-| Narrative Games Comparison | [`.md`](narrative-games-comparison.md) | [`.docx`](narrative-games-comparison.docx) | Comparison of narrative indie games relevant to One More Day. |
-| Technology Comparison | [`.md`](technology-comparison.md) | [`.docx`](technology-comparison.docx) | Preliminary evaluation of engines, narrative systems, state management, and music tools. |
-| Requirements Specification | [`.md`](requirements-specification.md) | [`.docx`](requirements-specification.docx) | Game concept, narrative structure, requirements, and acceptance criteria. |
-| Evaluation Plan | [`.md`](evaluation-plan.md) | [`.docx`](evaluation-plan.docx) | Proposed functional verification and exploratory player-evaluation methods. |
-
-## Architecture diagrams
-
-Editable Mermaid sources and preview images are maintained in [`architecture/`](architecture/):
+Editable Mermaid sources and PNG previews are maintained in [`architecture/`](architecture/):
 
 - `system-context.mmd` / `system-context.png`
 - `use-case.mmd` / `use-case.png`
 - `component-diagram.mmd` / `component-diagram.png`
 
-## Maintenance notes
+## Research Status and Limitations
 
-- Keep filenames consistent across paired formats.
-- Update the Markdown and Word files when a document changes.
-- Distinguish proposed methods from completed work and measured results.
-- Record significant changes in Git commits.
+The current user-research report records three exploratory text-based discussions. The sample is small, the interview guides varied. The report therefore informs preliminary relevance and project planning; it does not validate the specific narrative choice or demonstrate usability.
 
-## Current status
+Technology comparisons, design assumptions, and evaluation criteria remain provisional until tested. A plan is not evidence that a test has already been completed.
 
-These documents are working project materials. Some comparisons, source interpretations, technology choices, and evaluation criteria remain provisional and should be validated before final submission. The presence of a plan does not mean the proposed tests or user research have already been performed.
+## Maintenance Checklist
+
+- Keep filenames consistent and links relative to the repository.
+- Update the Markdown source when content changes.
+- Regenerate or revise the matching Word copy for review or submission.
+- Distinguish direct participant evidence from interpretation and assumptions.
+- Do not commit participant handles, private messages, or identifying information without appropriate permission.
