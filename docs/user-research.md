@@ -3,7 +3,6 @@
 **Diploma topic:** *Independent Game Development as a Catalyst for the Evolution of the Video Game Industry*  
 **Evidence type:** Six exploratory interviews analysed as primary qualitative evidence, covering player, development, and industry perspectives  
 **Interview records:** Six exploratory interviews included in the analysis  
-**Data period:** 22–24 October 2026, based on the supplied materials
 
 ## 1. Purpose
 
