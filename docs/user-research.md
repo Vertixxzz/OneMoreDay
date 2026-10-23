@@ -1,108 +1,135 @@
-# User Research: Evidence of Relevance
+# Evidence of Relevance: Exploratory Interviews on Independent Game Development
 
-**Project:** *One More Day*  
 **Diploma topic:** *Independent Game Development as a Catalyst for the Evolution of the Video Game Industry*  
-**Document status:** Preliminary findings from three asynchronous text-based discussions  
-**Data period:** 22–23 October 2026  
+**Evidence type:** Six exploratory interviews analysed as primary qualitative evidence, covering player, development, and industry perspectives  
+**Interview records:** Six exploratory interviews included in the analysis  
+**Data period:** 22–24 October 2026, based on the supplied materials
 
 ## 1. Purpose
 
-The purpose of this preliminary research was to gather perspectives on independent game development, player preferences, and the factors that shape the reception of indie games. The evidence is used to inform the scope and initial requirements of *One More Day* and to support the diploma research question concerning the role of independent development in the wider video game industry.
+The interviews explored the perceived value of independent games, player expectations, narrative design, and practical conditions that affect the development and discovery of indie games. The evidence supports the relevance of examining independent development as a source of creative experimentation while also considering the constraints faced by small teams and solo developers.
 
-These discussions provide exploratory qualitative evidence. They do not establish that the views are representative of all players or developers, and they do not independently prove industry-wide causal claims.
+This is exploratory qualitative evidence, not a market survey. It describes the views of the respondents who participated; it does not establish how common those views are among all players or developers and does not independently prove industry-wide causal claims.
 
 ## 2. Method and Participants
 
-Information was collected through asynchronous text-based semi-structured discussions. Interview questions varied according to the participant's perspective, so not every participant answered an identical set of questions.
+Responses were collected asynchronously using text-based, semi-structured interview guides. The questions varied by perspective. All six unique interviews are included in the main analysis. Three participants primarily discussed their experiences and preferences as players; three others contributed development or industry-related perspectives. These perspectives answer different but complementary questions: player interviews inform expectations and experience, while development and industry interviews inform production constraints and the wider relevance of independent development. The roles are distinguished throughout the report rather than treating one type of response as a substitute for another.
 
-The supplied transcript contains three respondent records. Handles are replaced in this report with participant codes:
+The six interview records are anonymised below. Categories are based only on the supplied answers, not on independently verified biographies.
 
-- **P01 — Game-development experience and player perspective.** Reported teaching game development for approximately one year, having personal projects, and working on a graduation project. Also described playing indie games, including narrative-driven titles.
-- **P02 — Player interested in narrative-focused indie games.** Described playing indie titles regularly and discussed visual identity, atmosphere, narrative, music, and how they decide whether to try an unfamiliar game.
-- **P03 — Player interested in the video game industry.** Reported following releases of interest and discussed indie innovation, development tools, distribution, and discoverability.
+\newpage
 
-The sample is small and non-representative. The supplied transcript does not document the recruitment procedure or consent status; these details should be recorded separately before identifiable messages or quotations are used in academic submission. This report uses participant codes and paraphrases responses rather than reproducing personal handles.
+| Code | Anonymised participant overview |
+|---|---|
+| P01 | Player interested in story-driven games. Discussed narrative coherence, consequential choices, endings, sound, character empathy, and the portrayal of difficult experiences. |
+| P02 | Player who plays a range of genres but does not play games or indie games regularly. Discussed *No Man's Sky* and *Cuphead*, atmosphere, visual style, fairness, and fun. |
+| P03 | Regular indie-game player. Discussed *Minecraft* and *Outer Wilds*, creative freedom, exploration, atmosphere, reviews, and technical issues. |
+| P04 | Respondent with game-development teaching and personal-project experience. Discussed project completion, scope, experimentation, discoverability, and narrative-focused titles. |
+| P05 | Practising frontend and independent game developer. Discussed creative freedom, scope management, promotion, publishing, accessible tools, and AI-assisted workflows. |
+| P06 | Respondent who follows video-game industry developments. Discussed indie influence, development and distribution tools, discoverability, competition, and AI. |
+
+The supplied materials do not document a consistent recruitment procedure, demographic profile, or consent status. The report therefore uses anonymised codes and paraphrases rather than online handles or verbatim quotations. These details should be recorded separately if required by the institution.
 
 ## 3. Findings
 
-### Finding 1 — Respondents associate indie development with creative experimentation
+### Finding 1 — Independent development is associated with experimentation
 
-P01 described indie developers as more willing to explore experimental mechanics and storytelling, mentioning games such as *Noita*, *Enter the Gungeon*, *Risk of Rain*, *Balatro*, *OMORI*, and *Deltarune*. P02 highlighted unusual combinations of mechanics, visual style, and storytelling in titles such as *Outer Wilds*, *Signalis*, and *Disillusion ST*. P03 associated indie games with new genres, art styles, and ideas that can later appear in larger productions.
+Several respondents described indie games as having more room for unusual mechanics, distinctive artistic visions, and less conventional storytelling than large-studio productions. Examples mentioned included *Noita*, *Balatro*, *Outer Wilds*, *Undertale*, *Deltarune*, *OMORI*, *Signalis*, *Minecraft*, and *Cuphead*. Respondents also noted that not every indie game is experimental or original, and that large studios can take risks too.
 
-**Interpretation:** The responses support examining experimentation as one perceived contribution of independent development. They are participants' assessments, not independent proof that a particular game caused an industry-wide change.
+**Interpretation:** The responses support treating experimentation as a perceived contribution of independent development. They do not independently prove that particular games caused changes across the industry.
 
-### Finding 2 — Atmosphere and artistic identity can be important to player interest
+### Finding 2 — Players do not share a single formula for a memorable game
 
-P01 recommended focusing on writing, atmosphere, and mood for a small narrative-driven game. P02 emphasised visual presentation and atmosphere, also noting the role of music and distinctive storytelling in memorable experiences. P02's response further suggested that visual presentation, trailers, store-page material, and reviews may influence whether an unfamiliar game receives attention.
+Respondents valued different combinations of atmosphere, visual identity, music, creative vision, gameplay, depth, fun, and a game's ability to deliver on its central promise. Some described narrative integration as important, while others prioritised gameplay or excitement. Players also differed in how much time they spend on indie titles and how they decide whether to try an unfamiliar game.
 
-**Interpretation:** For *One More Day*, narrative, visual presentation, and original music should be considered as elements of one coherent experience. The interviews do not establish that every player prioritises atmosphere or music equally.
+**Interpretation:** Analysis and design should avoid assuming that narrative, music, atmosphere, or gameplay will appeal equally to every player. A clear intended experience and later evaluation are more defensible than claiming one universal preference.
 
-### Finding 3 — Finishing a game and controlling its scope are significant development concerns
+### Finding 3 — Consequences can make narrative choices feel meaningful
 
-P01 identified completing a game as a major challenge. The respondent noted that implementation, expanding mechanics, additional details, and polishing can make a project substantially more demanding than it initially appears. P01 also recommended avoiding an oversized scope and maintaining adequate rest.
+The respondent who answered the narrative-specific questions described choices as meaningful when they affect what happens next, rather than only changing a line of dialogue or adding information. The same respondent preferred clear resolutions overall but valued ambiguity in some games and multiple outcomes when earlier decisions have immediate or longer-term consequences.
 
-**Interpretation:** This provides direct practitioner-perspective support for keeping the initial playable scope manageable and prioritising a coherent core experience over optional systems.
+**Interpretation:** Narrative choices intended to carry significant weight should produce understandable consequences. This is one participant's stated preference, not evidence that a particular choice design will work for all players.
 
-### Finding 4 — Discoverability and marketing are perceived as major indie challenges
+### Finding 4 — Atmosphere and audiovisual identity matter to some players
 
-P01 emphasised marketing and wishlists. P02 referred to reviews, mechanics, trailers, store-page presentation, and the uniqueness of a game's concept as factors in deciding whether to try an unfamiliar title. P03 also identified discoverability and competition among a large number of releases as challenges.
+Several respondents described atmosphere, art direction, soundtracks, and visual style as important to memorable experiences. The narrative-focused respondent noted that sound can establish tension, peacefulness, and a sense of place. Other responses demonstrated that these priorities are not universal: some players emphasise fun, challenge, gameplay, or depth above story and atmosphere.
 
-**Interpretation:** The findings support including discoverability and distribution constraints in the diploma's broader analysis of independent game development. They do not validate a marketing strategy for *One More Day*, which has not been marketed or tested.
+**Interpretation:** Visual and audio elements can reinforce a game's intended mood, but their effectiveness must be assessed in the context of the actual experience.
 
-### Finding 5 — Creative ambition still needs reliable implementation
+### Finding 5 — Scope control and completion are significant development challenges
 
-P02 identified game-breaking bugs as a reason to reject a game. P01's recommendations combined creative focus with scope control, while P03 discussed both opportunities created by accessible tools and the difficulty of standing out in a crowded market.
+A respondent with game-development teaching and personal-project experience identified finishing a game as a major challenge as mechanics, details, and polish accumulate. The practising developer also described how creative freedom can lead to an expanding set of prototypes without disciplined scope management. Other advice emphasised focusing on writing, atmosphere, mood, and a realistic amount of work.
 
-**Interpretation:** A small project should aim for a distinctive core idea without neglecting basic stability and interaction clarity.
+**Interpretation:** For small-scale development, a manageable scope and a coherent playable core are prudent priorities. This is a planning implication drawn from practitioner perspectives, not a universal description of every indie workflow.
 
-### Finding 6 — Accessible tools can lower some barriers, but they do not guarantee success
+### Finding 6 — Discoverability and promotion are recurring concerns
 
-P01 mentioned lightweight engines, graphics tools, and music software as options for developers with limited hardware resources. P03 referred to engines such as Unity and Godot and distribution platforms such as Steam as resources that make development and release more accessible, while also noting intense competition.
+Respondents with development or industry perspectives raised marketing, wishlists, publishers, competition, and the difficulty of getting unfamiliar games noticed. Players mentioned reviews, trailers, store-page presentation, recommendations, mechanics, and apparent uniqueness as factors in deciding whether to try a game.
 
-**Interpretation:** This supports examining accessible production tools and distribution platforms in the literature review and technology comparison. It is not, by itself, evidence that one particular engine or tool is the best choice for *One More Day*.
+**Interpretation:** Discoverability and distribution are relevant topics for the diploma's industry analysis. These interviews do not quantify the scale of the challenge or test a marketing strategy.
+
+### Finding 7 — Technical quality, honest presentation, and accessible tools all matter
+
+One player described game-breaking bugs as a strong reason not to continue. Another emphasised that a game should be honest about the experience it offers, whether it is focused on gameplay or story. Respondents also discussed accessible engines, tools, and distribution platforms as lowering some barriers, while cautioning that easier production does not guarantee visibility or success.
+
+**Interpretation:** Creative ambition needs to be matched by a stable core experience and a clear presentation of the game's main appeal. Specific claims about tool capabilities or market effects require separate technical or literature-based evidence.
+
+### Finding 8 — AI is viewed as both an aid and a concern
+
+The practising developer described AI-assisted tools as useful in planning and implementation. Another respondent raised concerns about AI-enabled reverse engineering or rapid recreation of creative work. AI also appeared in discussion of increasing competition.
+
+**Interpretation:** AI is an emerging topic raised by respondents. The interviews do not independently verify claims about the ability to reproduce commercial games or the scale of any resulting harm.
 
 ## 4. Evidence-to-Requirements Mapping
 
-The table distinguishes what participants actually reported from the design implications inferred for the project.
+The table separates what respondents reported from possible implications for independent game development and the wider research. Requirement identifiers refer to the current project specification and should be checked if those identifiers change.
 
-| Interview evidence | Implication for *One More Day* | Related requirement or project decision | Evidence status |
-|---|---|---|---|
-| P01 stressed the difficulty of completing projects and advised keeping the scope manageable. | Prioritise a small, demonstrable core experience before adding optional features. | **NFR-07** — feasibility for independent development; project scope and implementation priorities. | Directly reported concern; design implication derived from it. |
-| P02 said game-breaking bugs can prevent them from enjoying or continuing a game. | The core demonstration scenario should be stable and free of blocking defects. | **NFR-01** — prototype stability; **FR-01** — launch into a playable state. | Directly reported player preference; not a test result for this game. |
-| P01 recommended attention to writing, atmosphere, and mood; P02 valued visual identity, atmosphere, music, and narrative. | Design and review dialogue, visual presentation, and music as parts of a coherent narrative experience. | **FR-06** — dialogue/narrative presentation; **FR-13** — original music; **NFR-05** — appropriate audio behaviour. | Directly reported preferences; relevance to this particular game remains to be evaluated. |
-| P01 and P02 described narrative-driven indie games as appealing and named examples that made a strong impression. | Retain narrative-focused indie-game players as the preliminary intended audience, subject to further validation. | Project proposal — target users; **FR-04–FR-06** — establishing April and presenting the narrative. | Preliminary audience support from a small sample, not representative validation. |
-| P01, P02, and P03 discussed experimentation and distinctive design in indie games. | The practical project should have a clear creative identity rather than add features solely to increase scope. | Research objectives and project concept; **NFR-07** — feasible scope. | Respondents' perceptions; the originality or industry impact of a design must be assessed separately. |
-| P01 and P03 raised marketing/discoverability, while P02 mentioned reviews and presentation when choosing unfamiliar games. | Include discoverability and distribution as industry-level factors in the diploma discussion. | Diploma research on independent development, distribution, and industry constraints. | Qualitative interview evidence; no market size or causal effect was measured. |
-| No supplied response evaluated the *One More Day* concept or its engagement-versus-withdrawal choice directly. | Do not claim that the concept, the final choice, or its emotional framing has been validated by these interviews. Test the concept with potential players in a follow-up discussion or prototype evaluation. | **FR-08–FR-12** — choice and branch requirements; **NFR-08** — avoiding a simple moral test. | **Unvalidated design assumption / next validation step.** |
+| Interview evidence | Possible implication | Evidence status |
+|---|---|---|
+| P04 described difficulty completing projects; P05 also discussed scope management. | Prioritise a small, demonstrable core experience and defer optional features. | Reported development experience; practical implication inferred from it. |
+| P01 said choices feel meaningful when they affect what follows. | Ensure major narrative choices have understandable consequences rather than purely cosmetic differences. | Direct participant preference; the design and its reception remain untested. |
+| P01 valued coherent story and gameplay; several players mentioned atmosphere, art, or music. | Review dialogue, interaction flow, visual presentation, and music as parts of a coherent experience. | Reported preferences; not evidence that a specific design already succeeds. |
+| P02 identified game-breaking bugs as a major negative; P04 and P05 discussed scope and implementation challenges. | Keep the core scenario small and test it for blocking defects before expanding it. | Reported concerns mapped to sensible implementation priorities. |
+| P04–P06 raised marketing or discoverability; players mentioned reviews, trailers, presentation, and uniqueness. | Include distribution and discoverability in the analysis of independent development. | Qualitative evidence; no market size or causal effect was measured. |
+| Respondents differed in their priorities, including gameplay, atmosphere, story, visuals, and fun. | Treat the intended audience and the expected appeal of the proposed experience as questions to validate, not settled facts. | Heterogeneous preferences; target-audience fit has not been established. |
+| P05 and P06 raised AI-related opportunities or risks from their own perspectives. | Discuss AI as a contemporary development concern and support wider claims with external sources. | Participant-reported concern; not independently verified by this interview set. |
 
 ## 5. Reported Findings Versus Assumptions
 
-### Findings directly supported by the transcript
+### Supported as reports of participants' views
 
-- The three respondent records contain positive views about the potential for creative experimentation in indie games.
-- Scope control and completing projects were raised as development concerns by the participant with game-development experience.
-- Atmosphere, visual identity, narrative, music, reviews, trailers, and presentation were raised as factors that may influence individual players' experiences or choices.
-- Discoverability and marketing were raised as challenges for small developers.
-- At least one player explicitly identified game-breaking bugs as a major negative factor.
+- Respondents associated independent development with creative experimentation or a stronger focus on a particular vision, while acknowledging exceptions.
+- Development-oriented respondents raised scope control and project completion as challenges.
+- Players differed in their priorities; gameplay, fun, atmosphere, visual style, music, story coherence, depth, and fairness were all mentioned.
+- Consequential choices mattered to the respondent who answered the narrative-specific questions.
+- Discoverability and promotion were raised by respondents with development or industry perspectives.
+- Technical defects and a mismatch between a game's promise and its actual experience could reduce an individual player's willingness to continue.
+- AI was discussed as both a potential workflow aid and a perceived risk to developers' work.
 
-These are findings about what the respondents said. Statements about industry history, market conditions, or the effects of a game on later titles remain participant opinions unless supported separately by literature or other evidence.
+These points describe the supplied responses. Broader assertions about market trends, industry influence, or technical capabilities require support from the literature review or other independent evidence.
 
-### Assumptions and questions that remain open
+### Not established by these interviews
 
-- Whether the intended audience will find *One More Day*'s specific premise compelling.
-- Whether players will understand the Chapter III choice and perceive the two branches as meaningfully different.
-- Whether the narrative will avoid being interpreted as presenting engagement as morally superior to withdrawal.
-- Which visual style, length, controls, or accessibility options best suit the intended audience.
-- Whether the selected technology stack will prove to be the most efficient once a vertical slice is implemented.
+- Whether the views expressed by these respondents represent the preferences of a wider audience.
+- Whether a particular narrative choice will be understood as meaningful, balanced, or non-judgemental by players.
+- Which visual style, game length, controls, or accessibility options will work best for a particular audience.
+- Any causal claim that indie games created a genre, changed large-studio development, or that AI has measurably caused a particular level of copying or competition.
 
-These assumptions should be assessed through concept feedback and later prototype testing. The current interview set does not answer them directly.
+These questions require follow-up concept feedback, prototype evaluation, technical testing, or external sources as appropriate.
 
-## 6. Limitations
+## 6. Limitations and Next Steps
 
-The study includes only three respondent records, uses different interview guides, and relies on self-reported opinions. The participants were not shown a concept description or prototype of *One More Day* in the supplied transcript. The responses are therefore useful for preliminary relevance and requirement discussions, but they cannot demonstrate usability, acceptance of the game's specific narrative choice, or a causal influence of indie games on the wider industry.
+The study includes six interview records, but the sample remains small, non-random, and non-representative. Three interviews primarily capture player experiences and preferences, while three contribute development or industry-related perspectives. The player interviews provide direct evidence about individual player expectations; the other interviews add first-hand perspectives on production and sector conditions. Interview guides differed, responses were self-reported and text-based, and the supplied materials do not document recruitment procedures, participant demographics, or consent status. Findings should not be expressed as percentages or generalised to all players and developers.
 
-A follow-up discussion with potential players should present the game's short concept description and ask neutral questions about clarity, expectations, and the interpretation of the final choice. Later, a playable prototype should be evaluated using the existing verification and evaluation plan.
+The respondents were not shown a specific game concept or playable prototype. The interviews therefore inform the broad development context and possible design considerations, but they do not validate any particular game's premise, characters, narrative branches, usability, or emotional impact.
+
+Recommended next steps:
+
+1. Present a short, neutral concept description to potential players and ask about clarity, expectations, and interpretation without leading them toward a preferred response.
+2. Build a low-fidelity scene or vertical slice and check whether the interaction, dialogue, and any major choice are understandable.
+3. Use the verification and evaluation plan for functional behaviour and stability; treat player feedback as a separate evidence source.
+4. Support wider claims about the industry, distribution, and AI with the literature review rather than relying on interview opinions alone.
 
 ## 7. Conclusion
 
-The preliminary discussions suggest that respondents value creative experimentation in indie games while recognising practical constraints such as project completion, discoverability, and technical quality. For *One More Day*, the most actionable implications are to keep the prototype scope realistic, create a coherent narrative and audiovisual identity, and prioritise a stable core experience. The project's specific narrative choices remain design hypotheses until they are discussed with potential players and evaluated using a prototype.
+Overall, respondents described creative freedom as an indie strength, alongside challenges in scope, completion, promotion, and competition. Preferences varied, and one narrative-focused respondent linked meaningful choices to consequences. These exploratory findings inform the topic but do not validate a specific game concept or prove industry-wide claims.
