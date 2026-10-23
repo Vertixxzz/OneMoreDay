@@ -31,6 +31,10 @@ Editable Mermaid sources and PNG previews are maintained in [`architecture/`](ar
 - `use-case.mmd` / `use-case.png`
 - `component-diagram.mmd` / `component-diagram.png`
 
+## Project Management
+
+The project is managed in [YouTrack — OneMoreDay](https://onemoreday.youtrack.cloud/projects/ONE/issues/ONE-1/Project-Initiation), where tasks are organized by project stage and used to track progress and outstanding work.
+
 ## Research Status and Limitations
 
 The current user-research report records three exploratory text-based discussions. The sample is small, the interview guides varied. The report therefore informs preliminary relevance and project planning; it does not validate the specific narrative choice or demonstrate usability.
