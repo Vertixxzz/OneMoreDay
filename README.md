@@ -56,6 +56,14 @@ Editable Mermaid sources and PNG previews are stored in [`docs/architecture/`](d
 - [Use Case](docs/architecture/use-case.mmd) · [Preview](docs/architecture/use-case.png)
 - [Component Diagram](docs/architecture/component-diagram.mmd) · [Preview](docs/architecture/component-diagram.png)
 
+## Project Management
+
+Project planning, task tracking, priorities, and progress monitoring are managed through YouTrack.
+
+- **YouTrack project:** [OneMoreDay — Project Initiation](https://onemoreday.youtrack.cloud/projects/ONE/issues/ONE-1/Project-Initiation)
+- **Task tracking:** Project tasks are organized by stages, from initiation and research to design, implementation, testing, and final thesis preparation.
+- **Progress tracking:** Tasks are used to document project progress, outstanding work, and planned deliverables.
+
 ## Preliminary Technology Direction
 
 The current candidates are **Unity 6 + C#** and **Yarn Spinner** for dialogue. These are preliminary choices, not claims of completed integration. The project plans to validate the engine, dialogue flow, narrative branch state, and music playback through a minimal vertical slice. Original music is planned in FL Studio.
